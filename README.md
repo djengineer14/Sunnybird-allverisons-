@@ -1,2 +1,2 @@
 # Sunnybird-allverisons-
-I made my own desktop pet
+I made my own Desktop Pet based of My real Bird.
